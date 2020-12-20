@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    margin: 0 auto;
+    text-align: center;
+}
+.pokedex {
+    margin: 0 auto;
+    text-align: center;
+}
+.content {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    width: 150px;
+    padding-bottom: 20px;
+    margin: 5px;
+    background-color: rgb(240, 240, 240);
+    border: gray 2px solid;
+    border-radius: 10px;
+}
+.content img {
+    padding-top: 10px;
+}
